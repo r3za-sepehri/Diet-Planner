@@ -1,0 +1,15 @@
+item,lower_bound,upper_bound
+calorie,2000,-
+protein,55,-
+carbohydrate,130,-
+saturated_fat,-,-
+fiber,30,-
+calcium,1300,2500
+iron,13,45
+potassium,3000,-
+sodium,2300,-
+vitamin_a,600,3000
+thiamine,1.15,-
+riboflavin,1.2,-
+niacin,15,-
+vitamin_c,82.5,2000
